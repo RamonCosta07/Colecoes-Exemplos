@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\bin\Debug\net5.0\ClasseArray.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\bin\Debug\net5.0\ClasseArray.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\bin\Debug\net5.0\ClasseArray.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\bin\Debug\net5.0\ClasseArray.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\bin\Debug\net5.0\ClasseArray.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\bin\Debug\net5.0\ref\ClasseArray.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\bin\Debug\net5.0\ClasseArray.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\obj\Debug\net5.0\ClasseArray.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\obj\Debug\net5.0\ClasseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\obj\Debug\net5.0\ClasseArray.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\obj\Debug\net5.0\ClasseArray.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\obj\Debug\net5.0\ClasseArray.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\obj\Debug\net5.0\ClasseArray.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\obj\Debug\net5.0\ref\ClasseArray.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\obj\Debug\net5.0\ClasseArray.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ClasseArray\ClasseArray\obj\Debug\net5.0\ClasseArray.genruntimeconfig.cache

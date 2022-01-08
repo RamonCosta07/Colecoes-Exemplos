@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\bin\Debug\net5.0\ExemploColeções.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\bin\Debug\net5.0\ExemploColeções.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\bin\Debug\net5.0\ExemploColeções.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\bin\Debug\net5.0\ExemploColeções.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\bin\Debug\net5.0\ExemploColeções.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\bin\Debug\net5.0\ref\ExemploColeções.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\bin\Debug\net5.0\ExemploColeções.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\obj\Debug\net5.0\ExemploColeções.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\obj\Debug\net5.0\ExemploColeções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\obj\Debug\net5.0\ExemploColeções.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\obj\Debug\net5.0\ExemploColeções.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\obj\Debug\net5.0\ExemploColeções.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\obj\Debug\net5.0\ExemploColeções.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\obj\Debug\net5.0\ref\ExemploColeções.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\obj\Debug\net5.0\ExemploColeções.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ExemploColeções\obj\Debug\net5.0\ExemploColeções.genruntimeconfig.cache

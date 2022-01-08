@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\bin\Debug\net5.0\ColeçõesGenéricasExemplo.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\bin\Debug\net5.0\ColeçõesGenéricasExemplo.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\bin\Debug\net5.0\ColeçõesGenéricasExemplo.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\bin\Debug\net5.0\ColeçõesGenéricasExemplo.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\bin\Debug\net5.0\ColeçõesGenéricasExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\bin\Debug\net5.0\ref\ColeçõesGenéricasExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\bin\Debug\net5.0\ColeçõesGenéricasExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\obj\Debug\net5.0\ColeçõesGenéricasExemplo.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\obj\Debug\net5.0\ColeçõesGenéricasExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\obj\Debug\net5.0\ColeçõesGenéricasExemplo.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\obj\Debug\net5.0\ColeçõesGenéricasExemplo.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\obj\Debug\net5.0\ColeçõesGenéricasExemplo.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\obj\Debug\net5.0\ColeçõesGenéricasExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\obj\Debug\net5.0\ref\ColeçõesGenéricasExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\obj\Debug\net5.0\ColeçõesGenéricasExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\ColeçõesGenéricasExemplo\ColeçõesGenéricasExemplo\obj\Debug\net5.0\ColeçõesGenéricasExemplo.genruntimeconfig.cache

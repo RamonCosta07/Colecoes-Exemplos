@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\bin\Debug\net5.0\DicionarioExemplo.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\bin\Debug\net5.0\DicionarioExemplo.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\bin\Debug\net5.0\DicionarioExemplo.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\bin\Debug\net5.0\DicionarioExemplo.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\bin\Debug\net5.0\DicionarioExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\bin\Debug\net5.0\ref\DicionarioExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\bin\Debug\net5.0\DicionarioExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\obj\Debug\net5.0\DicionarioExemplo.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\obj\Debug\net5.0\DicionarioExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\obj\Debug\net5.0\DicionarioExemplo.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\obj\Debug\net5.0\DicionarioExemplo.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\obj\Debug\net5.0\DicionarioExemplo.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\obj\Debug\net5.0\DicionarioExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\obj\Debug\net5.0\ref\DicionarioExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\obj\Debug\net5.0\DicionarioExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\DicionarioExemplo\DicionarioExemplo\obj\Debug\net5.0\DicionarioExemplo.genruntimeconfig.cache

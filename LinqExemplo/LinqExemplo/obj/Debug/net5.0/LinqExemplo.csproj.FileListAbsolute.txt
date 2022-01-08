@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\bin\Debug\net5.0\LinqExemplo.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\bin\Debug\net5.0\LinqExemplo.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\bin\Debug\net5.0\LinqExemplo.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\bin\Debug\net5.0\LinqExemplo.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\bin\Debug\net5.0\LinqExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\bin\Debug\net5.0\ref\LinqExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\bin\Debug\net5.0\LinqExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\obj\Debug\net5.0\LinqExemplo.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\obj\Debug\net5.0\LinqExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\obj\Debug\net5.0\LinqExemplo.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\obj\Debug\net5.0\LinqExemplo.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\obj\Debug\net5.0\LinqExemplo.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\obj\Debug\net5.0\LinqExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\obj\Debug\net5.0\ref\LinqExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\obj\Debug\net5.0\LinqExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ExemploColeções\LinqExemplo\LinqExemplo\obj\Debug\net5.0\LinqExemplo.genruntimeconfig.cache
